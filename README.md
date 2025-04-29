@@ -12,13 +12,13 @@ My Role (Mrunal Mendole) - Game Designer & Programmer:
 2) Designed and programmed levels with dynamic camera system, interactive environments focusing platforming flows.
 3) Experimented with a dialogue system Plug in, Co-developed Dynamic UI, sound design using Unity’s built-in tools
 
-Credits: 
-Music:
+Credits: <br>
+Music: <br>
 Adrian von Ziegler - Into Soltitude: https://youtu.be/RG76jpoZM2M?si=HF9QXbPb43rW3LnC
 Adrian von Ziegler - Immortal: https://youtu.be/fIqNveNdkgU?si=WboPwlLp5HozYByO    
-Hiroyuki Sawano - Shingeki No Kyojin OST: https://youtu.be/47RK0qI2DiI?si=saoJ1L8RKPWbH_jx    
+Hiroyuki Sawano - Shingeki No Kyojin OST: https://youtu.be/47RK0qI2DiI?si=saoJ1L8RKPWbH_jx    <br>
 
-Fonts:
+Fonts: <br>
 The Branded Quotes - Nightcore Demo: https://sellfy.com/thebrandedquotes
 
 
