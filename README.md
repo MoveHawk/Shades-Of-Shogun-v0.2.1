@@ -14,8 +14,8 @@ My Role (Mrunal Mendole) - Game Designer & Programmer:
 
 Credits: <br>
 Music: <br>
-Adrian von Ziegler - Into Soltitude: https://youtu.be/RG76jpoZM2M?si=HF9QXbPb43rW3LnC
-Adrian von Ziegler - Immortal: https://youtu.be/fIqNveNdkgU?si=WboPwlLp5HozYByO    
+Adrian von Ziegler - Into Soltitude: https://youtu.be/RG76jpoZM2M?si=HF9QXbPb43rW3LnC <br>
+Adrian von Ziegler - Immortal: https://youtu.be/fIqNveNdkgU?si=WboPwlLp5HozYByO    <br>
 Hiroyuki Sawano - Shingeki No Kyojin OST: https://youtu.be/47RK0qI2DiI?si=saoJ1L8RKPWbH_jx    <br>
 
 Fonts: <br>
