@@ -1,6 +1,6 @@
 # Shades-Of-Shogun-v0.2.1
 [![SOS Gameplay](sos-main-menu.png)](https://youtu.be/dvCVrHWUW3s?si=eqiWjHAZ9xvCrLWm)
-<sub> SOS gameplay walkthrough </sub>
+SOS gameplay walkthrough:https://youtu.be/dvCVrHWUW3s?si=eqiWjHAZ9xvCrLWm
 
 "Shades of Shogun" is a 2D action platformer prototype featuring responsive movement, basic combat, and Beautiful levels. This early version focuses on core gameplay mechanics and visual clarity. <br>
 <sub> - Check releases for the latest playable build </sub>
